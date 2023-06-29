@@ -10,7 +10,6 @@ export const s = StyleSheet.create({
     alignItems: "center",
     justifyContent: "space-between",
     paddingHorizontal: 20,
-
     shadowColor: "#000",
     shadowOffset: {
       width: 0,
